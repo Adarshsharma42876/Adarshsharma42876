@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharma42876&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharma42876" /> </p>
 
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/REACT.JS**
 
